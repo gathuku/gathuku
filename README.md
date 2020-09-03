@@ -10,8 +10,3 @@ I use Ruby and PHP for my day to day work. Working with Ruby on Rails and Larave
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/37f1f9609f5c48a47f4d9c1a916fc2069fd0141c/topics/nuxt/nuxt.png"></code>
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/56a826d05cf762b2b50ecbe7d492a839b04f3fbf/topics/laravel/laravel.png"></code>
 
-## Stats
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=gathuku&show_icons=true&theme=radical)
-
-### Visitors counter
-![Visitor Count](https://profile-counter.glitch.me/gathuku/count.svg)
